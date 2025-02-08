@@ -15,8 +15,8 @@ Metronome 是一个基于 Qt 的节拍器应用程序，使用 QML 和 C++ 开�
 ### 构建步骤
 1. 克隆此仓库：
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Davidlucy/metronome.git
+   cd metronome
    ```
 
 2. 创建构建目录并进入：
