@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>wav/警报.wav</file>
+        <file>wav/你好.wav</file>
+        <file>wav/蟋蟀.wav</file>
+        <file>jpg/播放.png</file>
+        <file>jpg/音乐.png</file>
+        <file>jpg/暂停.png</file>
+        <file>jpg/th.png</file>
+        <file>jpg/减少.png</file>
+        <file>jpg/添加.png</file>
+        <file>wav/次强音.wav</file>
+        <file>wav/弱音.wav</file>
+        <file>wav/次强.wav</file>
+        <file>wav/强.wav</file>
+        <file>wav/弱.wav</file>
+        <file>wav/强音.wav</file>
+        <file>jpg/music.png</file>
+    </qresource>
+</RCC>

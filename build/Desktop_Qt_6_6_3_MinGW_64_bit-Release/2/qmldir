@@ -1,0 +1,4 @@
+module 2
+typeinfo app2.qmltypes
+prefer :/2/
+

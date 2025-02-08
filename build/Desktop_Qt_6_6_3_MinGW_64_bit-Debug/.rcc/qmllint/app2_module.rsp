@@ -1,0 +1,10 @@
+-I
+D:/MyQtProject/2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug
+-I
+D:/MyQt/6.6.3/mingw_64/./qml
+--resource
+D:/MyQtProject/2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/qmake_2.qrc
+--resource
+D:/MyQtProject/2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug/.rcc/app2_raw_qml_0.qrc
+--module
+2

@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-808c3395369fb7d40cfe.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-c9e7c41b80201bf775e8.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-9d65a200505d9c96901f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-5220b2247139b86c5394.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-91f23c627e22b3966dde.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2-Debug-73e388b567b3b1652493.json",
+					"name" : "app2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_autogen-Debug-5f7a0e4b08a860573ebb.json",
+					"name" : "app2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_autogen_timestamp_deps-Debug-3b355ec7a27a9a26d639.json",
+					"name" : "app2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_qmlimportscan-Debug-b6fb195977b006a28599.json",
+					"name" : "app2_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_qmllint-Debug-2ffded83626c380bdd3d.json",
+					"name" : "app2_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_qmllint_json-Debug-2e4e1b499b59708ac342.json",
+					"name" : "app2_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_qmllint_module-Debug-6ad96cdf75b9ba8a5e91.json",
+					"name" : "app2_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_qmltyperegistration-Debug-3e3648c34779ccd8726a.json",
+					"name" : "app2_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app2_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app2_tooling-Debug-b1240d7cc9023cd5172a.json",
+					"name" : "app2_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MyQtProject/2/build/Desktop_Qt_6_6_3_MinGW_64_bit-Debug",
+		"source" : "D:/MyQtProject/2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
