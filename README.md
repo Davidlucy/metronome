@@ -47,8 +47,8 @@ Metronome 是一个基于 Qt 的节拍器应用程序，使用 QML 和 C++ 开�
 - 点击播放/暂停按钮以开始或停止节拍。
 
 ## 项目展示
-![项目展示图片1](/img/metronome/1.png)
-![项目展示图片2](/img/metronome/2.png)
+![项目展示图片1](/jpg/1.png)
+![项目展示图片2](/jpg/metronome/2.png)
 
 
 ## 核心代码展示
