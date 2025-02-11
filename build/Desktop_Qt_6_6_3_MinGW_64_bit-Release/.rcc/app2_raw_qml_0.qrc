@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/2/">
-    <file alias="main.qml">D:/MyQtProject/2/main.qml</file>
-    <file alias="resources.qrc">D:/MyQtProject/2/resources.qrc</file>
-  </qresource>
-</RCC>
-
